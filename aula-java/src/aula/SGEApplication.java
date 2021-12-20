@@ -1,7 +1,7 @@
 package aula;
 
-public class Simple {
+public class SGEApplication {
     public static void main(String[] args) {
-        System.out.println("");
+        String nome = "tamilles";
     }
 }
